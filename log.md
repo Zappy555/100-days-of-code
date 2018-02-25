@@ -1,3 +1,4 @@
+<a href="https://avatars1.githubusercontent.com/u/11626622?s=40&v=4">
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
