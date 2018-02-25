@@ -1,3 +1,11 @@
+<h2 align=”center”>
+Day 1: Day Month 01, 2018
+</h2>
+<img src=”#" alt=””>
+**Today’s Progress**: Write progress here.
+**Thoughts:** Write additional thoughts here.
+**Link to tweet:** [yourName Day 1](insertLinkToTweet)
+**Link to work:** [nameOfWork](insertLinkHere)
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
