@@ -1,6 +1,6 @@
-<h2 align=”center”>
+<h2 align=”center”>100DaysOfCode</h2>
 <img src = "https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_960_720.jpg">
-Day 1 = (31) January - Day 30 (2nd) February, 2018
+Day 1 - 30 (31 Jan. - 2nd Feb. 2018)
 
 ROUND 1 DAY 1 - 30
 *	HTML Covered
