@@ -1,5 +1,5 @@
 <h2 align=”center”>
-<img src=”#" alt=”https://pixabay.com/photo-2434271/”>
+<img src=”https://pixabay.com/photo-2434271/" alt=”Coding Image”>
 Day 1 = (31) January - Day 30 (2nd) February, 2018
 
 ROUND 1 DAY 1 - 30
