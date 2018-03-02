@@ -1,4 +1,4 @@
-<h1 align=”center”>100DaysOfCode</h1>
+<h1 align = "center">100DaysOfCode Log</h1>
 <img src = "https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_960_720.jpg">
 <h2>Day 1 - 30 (31 Jan. - 1st Mar. 2018)</h2>
 
@@ -11,13 +11,12 @@
 
 <h3>Day 31: March 2nd, 2018</h3>
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I covered 19 challenges in JavaScript including arrays, nested arrays, functions and loops.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** On three of the challenges, I had to use the hint on FCC to check the solution namely: if/else .
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
+------------------------------------------------------------------------
+<h3 align = "center">Day 32: March 3rd, 2018</h3>
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
