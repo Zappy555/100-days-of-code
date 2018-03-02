@@ -3,15 +3,13 @@
 <h2>Day 1 - 30 (31 Jan. - 1st Mar. 2018)</h2>
 
 **Summary of Progress**: Completed Basic HTML5, CSS, jQuery and some Javascript.
-**Projects:** Completed my Tribute page, Personal Portfolio Site and a Medium Article on 30th day anniversary.
-**Link to Tribute page:** (insertLinkToTweet)
-**Link to Portfolio page:** (insertLinkHere)
-**Link to tweet:** [yourName Day 1](insertLinkToTweet)
-**Link to work:** [nameOfWork](insertLinkHere)
-# 100 Days Of Code - Log
+**Projects:** Completed my Tribute page, Personal Portfolio Site and a Medium Article on 30th day uninterrupted progresss.<br/>
+**Link to Tribute page:** (https://codepen.io/Zappy555/pen/xYRjZY)<br/>
+**Link to Portfolio page:** (https://codepen.io/Zappy555/pen/yvKoWz)<br/>
+
 ------------------------------------------------------------------------
 
-<h2>Day 31: March 2nd, 2018</h2>
+<h3>Day 31: March 2nd, 2018</h3>
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
