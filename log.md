@@ -1,40 +1,17 @@
-<h2 align=”center”>100DaysOfCode</h2>
+<h1 align=”center”>100DaysOfCode</h1>
 <img src = "https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_960_720.jpg">
-Day 1 - 30 (31 Jan. - 2nd Feb. 2018)
+<h2>Day 1 - 30 (31 Jan. - 1st Mar. 2018)</h2>
 
-ROUND 1 DAY 1 - 30
-*	HTML Covered
-	- xyz
-	- abc
-	- wst
-	
-*	CSS
-	- coe
-	- rhde
-	- oed
-	- cir
-	
-*	JAVASCRIPT
-	- dnn
-	- ronn
-	- rinr
-	- neid
-	
-*	Projects: 
-	- Tribute Page 
-	- Portfolio Page
-  - Medium Post on #30DaysOfCode
-
-
-</h2>
-**Today’s Progress**: Write progress here.
-**Thoughts:** Write additional thoughts here.
+**Summary of Progress**: Completed Basic HTML5, CSS, jQuery and some Javascript.
+**Projects:** Completed my Tribute page, Personal Portfolio Site and a Medium Article on 30th day anniversary.
+**Link to Tribute page:** (insertLinkToTweet)
+**Link to Portfolio page:** (insertLinkHere)
 **Link to tweet:** [yourName Day 1](insertLinkToTweet)
 **Link to work:** [nameOfWork](insertLinkHere)
 # 100 Days Of Code - Log
+------------------------------------------------------------------------
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<h2>Day 31: March 2nd, 2018</h2>
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
