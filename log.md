@@ -1,7 +1,32 @@
 <h2 align=”center”>
-Day 1: Day Month 01, 2018
+<img src=”#" alt=”https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_960_720.jpg”>
+Day 1 = (31) January - Day 30 (2nd) February, 2018
+
+ROUND 1 DAY 1 - 30
+*	HTML Covered
+	- xyz
+	- abc
+	- wst
+	
+*	CSS
+	- coe
+	- rhde
+	- oed
+	- cir
+	
+*	JAVASCRIPT
+	- dnn
+	- ronn
+	- rinr
+	- neid
+	
+*	Projects: 
+	- Tribute Page 
+	- Portfolio Page
+  - Medium Post on #30DaysOfCode
+
+
 </h2>
-<img src=”#" alt=””>
 **Today’s Progress**: Write progress here.
 **Thoughts:** Write additional thoughts here.
 **Link to tweet:** [yourName Day 1](insertLinkToTweet)
