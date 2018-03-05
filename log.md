@@ -25,7 +25,7 @@
 ------------------------------------------------------------------------
 <h3>Day 32: March 3rd, 2018</h3>
 
-**Today's Progress**: More and more reading of the Eloquent Javascript. Did a few challenges on FCC.
+**Today's Progress**: Tried a few more challenges on Codecademy JS lectures. Also downloaded VELOCITY App, an awesome tool containing a HUGE reference/documentation repository of some 150+ current programming languages. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Still trying to wrap my head around control structure in JS. Getting there slowly though.
 
