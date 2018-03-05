@@ -20,4 +20,12 @@
 
 **Today's Progress**: More and more reading of the Eloquent Javascript. Did a few challenges on FCC.
 
+**Thoughts**: Will keep on keeping on...
+
+------------------------------------------------------------------------
+<h3>Day 32: March 3rd, 2018</h3>
+
+**Today's Progress**: More and more reading of the Eloquent Javascript. Did a few challenges on FCC.
+
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
