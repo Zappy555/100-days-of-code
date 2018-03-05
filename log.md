@@ -23,7 +23,7 @@
 **Thoughts**: Will keep on keeping on...
 
 ------------------------------------------------------------------------
-<h3>Day 32: March 3rd, 2018</h3>
+<h3>Day 33: March 4th, 2018</h3>
 
 **Today's Progress**: Tried a few more challenges on Codecademy JS lectures. Also downloaded VELOCITY App, an awesome tool containing a HUGE reference/documentation repository of some 150+ current programming languages. 
 
