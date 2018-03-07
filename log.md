@@ -30,7 +30,7 @@
 **Thoughts**: Still trying to wrap my head around control structure in JS. Getting there slowly though.
 
 ------------------------------------------------------------------------
-<h3>Day 34 - 35: March 54th and 6th, 2018</h3>
+<h3>Day 34 - 35: March 5th and 6th, 2018</h3>
 
 **Today's Progress**: I re-read chapters 1 & 2 of Eloquent JavaScript and tackled the challenges (Triangle, FizzBuzz and Chessboard programs) at the end of chapter 2 as follows:
 
