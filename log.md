@@ -97,3 +97,10 @@
 do, and for) statements and how to declare them properly. I also discovered that a good night rest would result in better a programmer than endless hours of sleepy and tired eyes glued to the computer screen.
 
 **Link to Twit** https://twitter.com/porobe/status/971285996535939072
+
+
+
+------------------------------------------------------------------------
+<h3>Day 36 - 39: March 7th - 10th, 2018</h3>
+
+**Progress**: I read and re-read chapters 3 of Eloquent JavaScript, practicing how to create functions, learned the scope of the <b>var</b> and <b>let</b> variables, learned how to pass a function as value, create function within function and practiced object creation on FCC and how to create, access and delete object properties. 
