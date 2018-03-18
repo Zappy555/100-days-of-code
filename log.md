@@ -104,3 +104,9 @@ do, and for) statements and how to declare them properly. I also discovered that
 <h3>Day 36 - 39: March 7th - 10th, 2018</h3>
 
 **Progress**: I read and re-read chapters 3 of Eloquent JavaScript, practicing how to create functions, learned the scope of the <b>var</b> and <b>let</b> variables, learned how to pass a function as value, create function within function and practiced object creation on FCC and how to create, access and delete object properties. 
+
+
+------------------------------------------------------------------------
+<h3>Day 40 - 46: March 11th - 18th, 2018</h3>
+
+**Progress**: I completed  the <b>  Object Oriented and Functional Programming session on Free Code Camp and tackled some basic algorithm challenges such as: Reverse Str, factorialize num, check for palindromes, longest word, title case sentence, largest num in Arrays and confirm the ending etc. https://media2.giphy.com/media/5bJQBg4HGkGYM/giphy.gif
