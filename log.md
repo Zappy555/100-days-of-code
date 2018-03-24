@@ -140,12 +140,15 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 	
 	**What the above code is saying**
 	$(document).ready(function(){// This is how you start all jQuery effect on webpages.
-	$("#getMessage").// This part is where jQuery is shaking hands with the html. in this case, it is calling an element(button) 	         with an id of getMessage. 
+	
+	$("#getMessage").// jQuery shaking hands with the html. in this case, it is calling an element with an id of getMessage. 
+	
 	.on/.html/.etc(//telling the jQuery engine what or where to act on etc.
+	
 	$(".message").html("here is the message");//Here jQuery completes its job and weew! displays the new message
 
 2. **How to Get JSON with jQuery getJSON method. Again the code below speaks volumes
-	<script>
+<!--	<script>
 	  $(document).ready(function() {
 
 	    $("#getMessage").on("click", function(){
@@ -174,9 +177,9 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 	    </div>
 	  </div>
 	</div>
-    
+    -->
 3. **How to Convert JSON to HTML**
-	<script>
+<!--	<script>
 	  $(document).ready(function() {
 
 	    $("#getMessage").on("click", function() {
@@ -216,7 +219,7 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 	    </div>
 	  </div>
 	</div>
-
+-->
 **Things got a bit clear now that the whole pieces are coming togethe.
 **Link to twit:** https://twitter.com/porobe/status/977368052269568000
 
