@@ -114,13 +114,13 @@ do, and for) statements and how to declare them properly. I also discovered that
 ------------------------------------------------------------------------
 <h3>Day 50: March 22nd, 2018</h3>
 
-<img class="center" src = "https://www.healthysystem.in/wp-content/uploads/2016/08/Half-way-done.jpg">
+<img style = align: auto, src = "https://www.healthysystem.in/wp-content/uploads/2016/08/Half-way-done.jpg">
 
 Half-way down this path in round one, it's been both exciting and discouraging at the same time. I have struggled to grasp some of the concepts in the Basic Algorithm Scripting on FreeCodeCamp. 
 
-**Summary of Progress** I completed 3 of the algorithms on FCC namely: **Mutation, Falsy Bouncer, and Where do I Belong,*** and in the process understood more about the:
+**Summary of Progress** I completed 3 of the algorithms on FCC namely: **Mutation, Falsy Bouncer, and Where do I Belong,** and in the process understood more about the:
 1. **The string Object method - indexOf -** which returns the index of a specified string in a set of string values declared thus:
-   "The Quick Brown Fox Jumped Over The Lazy Dog".indexOf("Jumped"); // This returns the index of the word 'jumped' - a number.
+   	"The Quick Brown Fox Jumped Over The Lazy Dog".indexOf("Jumped"); // This returns the index of the word 'jumped' - a number.
 2. **Boolean Object** This one was a little tricky for me as I tried to fully understand its application as different from the primitive boolean values true and false. I came to understand however that there are only six(6) types of falsy values in JavaScript:  **false, null, 0, "", undefined, and NaN.** Thus doing this: arr.filter(Boolean); filters all falsy values from a set of string passed to the array. This can be used to check the validity of form inputs such as email addresses etc.
 
 **Link to Twit:** https://twitter.com/porobe/status/976779166971584513
@@ -128,7 +128,7 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 ------------------------------------------------------------------------
 <h3>Day 51 & 52: March 23rd and 24th, 2018</h3>
 
-/*
+<!--
 **Summary of Progress**: I completed two of the last challenges left of the Basic Algorithm Scripting on FCC, completed the JSON APIs and Ajax section of FCC and as a complement I completed the Basic Javascript section on CodeCademy . I learnt:
 1. **How to trigger click events with jQuery.** This can be acomplished with the code declaration:
 	<script>
@@ -220,7 +220,6 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 	    </div>
 	  </div>
 	</div>
-
+-->
 **Things got a bit clear now that the whole pieces are coming togethe.
 **Link to twit:** https://twitter.com/porobe/status/977368052269568000
-*/
