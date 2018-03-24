@@ -114,7 +114,7 @@ do, and for) statements and how to declare them properly. I also discovered that
 ------------------------------------------------------------------------
 <h3>Day 50: March 22nd, 2018</h3>
 
-<img src = "https://www.healthysystem.in/wp-content/uploads/2016/08/Half-way-done.jpg">
+<img align = "center" src = "https://www.healthysystem.in/wp-content/uploads/2016/08/Half-way-done.jpg">
 
 Half-way down this path in round one, it's been both exciting and discouraging at the same time. I have struggled to grasp some of the concepts in the Basic Algorithm Scripting on FreeCodeCamp. 
 
