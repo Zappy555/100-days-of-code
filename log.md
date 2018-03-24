@@ -224,3 +224,100 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 **Link to twit:** https://twitter.com/porobe/status/977368052269568000
 
 
+	<h3>Day 51 & 52: March 23rd and 24th, 2018</h3>
+
+**Summary of Progress**: I completed two of the last challenges left of the Basic Algorithm Scripting on FCC, completed the JSON APIs and Ajax section of FCC and as a complement I completed the Basic Javascript section on CodeCademy . I learnt:
+1. **How to trigger click events with jQuery.** This can be acomplished with the code declaration:
+	<script>
+	  $(document).ready(function() {
+	    $("#getMessage").on("click", function(){ //"#getMessage method is an id. given to a button in html.
+	    $(".message").html("here is the message");
+	   });
+	  });
+	</script>//It's a best practice to put this script tags in an external .js sheet and the call to it should be at webpage bottom.
+	
+	**What the above code is saying**
+	$(document).ready(function(){// This is how you start all jQuery effect on webpages.
+	
+	$("#getMessage").// jQuery shaking hands with the html. in this case, it is calling an element with an id of getMessage. 
+	
+	.on/.html/.etc(//telling the jQuery engine what or where to act on etc.
+	
+	$(".message").html("here is the message");//Here jQuery completes its job and weew! displays the new message
+
+2. **How to Get JSON with jQuery getJSON method. Again the code below speaks volumes
+<!--	<script>
+	  $(document).ready(function() {
+
+	    $("#getMessage").on("click", function(){
+	      
+	      $.getJSON("/json/cats.json", function(json){
+		$(".message").html(JSON.stringify(json));
+	      });
+	    });
+	  });
+	</script>
+     
+	     <div class="container-fluid">
+	  <div class = "row text-center">
+	    <h2>Cat Photo Finder</h2>
+	  </div>
+	  <div class = "row text-center">
+	    <div class = "col-xs-12 well message">
+	      The message will go here
+	    </div>
+	  </div>
+	  <div class = "row text-center">
+	    <div class = "col-xs-12">
+	      <button id = "getMessage" class = "btn btn-primary">
+		Get Message
+	      </button>
+	    </div>
+	  </div>
+	</div>
+    -->
+3. **How to Convert JSON to HTML**
+<!--	<script>
+	  $(document).ready(function() {
+
+	    $("#getMessage").on("click", function() {
+	      $.getJSON("/json/cats.json", function(json) {
+
+		var html = "";
+		// Only change code below this line.
+		json.forEach(function(val) {
+		  var keys = Object.keys(val);
+		  html += "<div class = 'cat'>";
+		  keys.forEach(function(key) {
+		    html += "<strong>" + key + "</strong>: " + val[key] + "<br>";
+		  });
+		  html += "</div><br>";
+		});  
+		$(".message").html(html);
+
+	      });
+	    });
+	  });
+	</script>
+
+	<div class="container-fluid">
+	  <div class = "row text-center">
+	    <h2>Cat Photo Finder</h2>
+	  </div>
+	  <div class = "row text-center">
+	    <div class = "col-xs-12 well message">
+	      The message will go here
+	   </div>
+	  </div>
+	  <div class = "row text-center">
+	    <div class = "col-xs-12">
+	      <button id = "getMessage" class = "btn btn-primary">
+		Get Message
+	      </button>
+	    </div>
+	  </div>
+	</div>
+-->
+**Things got a bit clear now that the whole pieces are coming togethe.
+**Link to twit:** https://twitter.com/porobe/status/977368052269568000
+
