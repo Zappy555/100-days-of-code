@@ -114,7 +114,7 @@ do, and for) statements and how to declare them properly. I also discovered that
 ------------------------------------------------------------------------
 <h3>Day 50: March 22nd, 2018</h3>
 
-<img style = align: auto, src = "https://www.healthysystem.in/wp-content/uploads/2016/08/Half-way-done.jpg">
+<img style = "text-align: center, width: 100%" src = "https://www.healthysystem.in/wp-content/uploads/2016/08/Half-way-done.jpg">
 
 Half-way down this path in round one, it's been both exciting and discouraging at the same time. I have struggled to grasp some of the concepts in the Basic Algorithm Scripting on FreeCodeCamp. 
 
@@ -131,11 +131,11 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 **Summary of Progress**: I completed two of the last challenges left of the Basic Algorithm Scripting on FCC, completed the JSON APIs and Ajax section of FCC and as a complement I completed the Basic Javascript section on CodeCademy . I learnt:
 1. **How to trigger click events with jQuery.** 
 
-2. **How to Get JSON with jQuery getJSON method. 
+2. **How to Get JSON with jQuery getJSON method** 
     
 3. **How to Convert JSON to HTML**
 		
-**Things got a bit clear now that the whole pieces are coming together.
+**Things got a bit clear now that the whole pieces are coming together.**
 **Link to tweet:** https://twitter.com/porobe/status/977368052269568000
 
 ------------------------------------------------------------------------
