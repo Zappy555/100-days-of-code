@@ -112,6 +112,17 @@ do, and for) statements and how to declare them properly. I also discovered that
 **Progress**: I completed  the Object Oriented and Functional Programming session on Free Code Camp and tackled some basic algorithm challenges such as: Reverse Str, factorialize num, check for palindromes, longest word, title case sentence, largest num in Arrays and confirm the ending etc. https://media2.giphy.com/media/5bJQBg4HGkGYM/giphy.gif
 	
 ------------------------------------------------------------------------
+<h3>Day 47 - 49: March 19th - 21st, 2018</h3>
+
+**Progress**: I completed  the more basic algorithm challenges on FCC viz; <br>
+
+Truncate a string <br>		
+Chunky Monkey <br>		
+Slasher Flick <br>
+
+**Link to Tweet** Didn't tweet
+
+------------------------------------------------------------------------
 <h3>Day 50: March 22nd, 2018</h3>
 
 <img style = "text-align: center, width: 100%" src = "https://www.healthysystem.in/wp-content/uploads/2016/08/Half-way-done.jpg">
