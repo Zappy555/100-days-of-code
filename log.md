@@ -138,9 +138,9 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 **Things got a bit clear now that the whole pieces are coming together.
 **Link to tweet:** https://twitter.com/porobe/status/977368052269568000
 
-
+------------------------------------------------------------------------
 <h3>Days 53 - 57: March 25th-29th, 2018</h3>
-
+------------------------------------------------------------------------
 **Summary of Progress**: 
 I completed the Random Quote Machine Project on FCC
 **Link to project:** https://codepen.io/Zappy555/pen/oqpzEZ
