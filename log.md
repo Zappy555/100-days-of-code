@@ -140,14 +140,14 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 
 ------------------------------------------------------------------------
 <h3>Days 53 - 57: March 25th-29th, 2018</h3>
-------------------------------------------------------------------------
+
 **Summary of Progress**: 
-I completed the Random Quote Machine Project on FCC
+I completed the Random Quote Machine Project on FCC <br>
 **Link to project:** https://codepen.io/Zappy555/pen/oqpzEZ
 
-2. I bought a personal domain in my name for my public profile where I can collect all my works and talk more openly about my interest
+I bought a personal domain in my name for my public profile where I can collect all my works and talk more openly about my interest<br>
 **Link to personal website:** www.alexporobe.com
     
-3. I learnt some more about Ajax, jQuery deprecated and newer classes, API calls etc
+3. I learnt some more about Ajax, jQuery deprecated and newer classes in jQuery 3, API calls etc
 
 **Link to tweet:** https://twitter.com/porobe/status/979133442628771840
