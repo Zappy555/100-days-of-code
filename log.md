@@ -109,7 +109,7 @@ do, and for) statements and how to declare them properly. I also discovered that
 ------------------------------------------------------------------------
 <h3>Day 40 - 46: March 11th - 18th, 2018</h3>
 
-**Progress**: I completed  the <b>  Object Oriented and Functional Programming session on Free Code Camp and tackled some basic algorithm challenges such as: Reverse Str, factorialize num, check for palindromes, longest word, title case sentence, largest num in Arrays and confirm the ending etc. https://media2.giphy.com/media/5bJQBg4HGkGYM/giphy.gif
+**Progress**: I completed  the Object Oriented and Functional Programming session on Free Code Camp and tackled some basic algorithm challenges such as: Reverse Str, factorialize num, check for palindromes, longest word, title case sentence, largest num in Arrays and confirm the ending etc. https://media2.giphy.com/media/5bJQBg4HGkGYM/giphy.gif
 	
 ------------------------------------------------------------------------
 <h3>Day 50: March 22nd, 2018</h3>
