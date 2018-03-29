@@ -128,12 +128,8 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 ------------------------------------------------------------------------
 <h3>Day 51 & 52: March 23rd and 24th, 2018</h3>
 
-**Summary of Progress**: I completed two of the last challenges left of the Basic Algorithm Scripting on FCC, completed the JSON APIs and Ajax section of FCC and as a complement I completed the Basic Javascript section on CodeCademy . I learnt:
-1. **How to trigger click events with jQuery.** 
-
-2. **How to Get JSON with jQuery getJSON method** 
-    
-3. **How to Convert JSON to HTML**
+**Summary of Progress**: I completed two of the last challenges left of the Basic Algorithm Scripting on FCC, completed the JSON APIs and Ajax section of FCC and as a complement I completed the Basic Javascript section on CodeCademy . I learnt:<br>
+How to trigger click events with jQuery, how to Get JSON with jQuery getJSON method, how to Convert JSON to HTML etc.
 		
 **Things got a bit clear now that the whole pieces are coming together.**
 **Link to tweet:** https://twitter.com/porobe/status/977368052269568000
@@ -143,11 +139,10 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 
 **Summary of Progress**: 
 I completed the Random Quote Machine Project on FCC <br>
-**Link to project:** https://codepen.io/Zappy555/pen/oqpzEZ
+**Link to project**: https://codepen.io/Zappy555/pen/oqpzEZ<br>
 
 I bought a personal domain in my name for my public profile where I can collect all my works and talk more openly about my interest<br>
-**Link to personal website:** www.alexporobe.com
-    
-3. I learnt some more about Ajax, jQuery deprecated and newer classes in jQuery 3, API calls etc
+**Link to personal website:** www.alexporobe.com<br>
 
+I learnt some more about Ajax, jQuery deprecated and newer classes in jQuery 3, API calls etc
 **Link to tweet:** https://twitter.com/porobe/status/979133442628771840
