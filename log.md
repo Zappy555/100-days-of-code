@@ -114,11 +114,11 @@ do, and for) statements and how to declare them properly. I also discovered that
 ------------------------------------------------------------------------
 <h3>Day 47 - 49: March 19th - 21st, 2018</h3>
 
-**Progress**: I completed  the more basic algorithm challenges on FCC viz; <br>
+**Progress**: I completed  three more basic algorithm challenges on FCC viz; <br>
 
-Truncate a string <br>		
-Chunky Monkey <br>		
-Slasher Flick <br>
+1. Truncate a string <br>		
+2. Chunky Monkey <br>		
+3. Slasher Flick <br>
 
 **Link to Tweet** Didn't tweet
 
