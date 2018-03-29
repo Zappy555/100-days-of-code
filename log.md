@@ -96,7 +96,7 @@
 **Thoughts**: I finally understood better the uses and functions of conditional (if, else, and switch) and looping (while,
 do, and for) statements and how to declare them properly. I also discovered that a good night rest would result in better a programmer than endless hours of sleepy and tired eyes glued to the computer screen.
 
-**Link to Twit** https://twitter.com/porobe/status/971285996535939072
+**Link to Tweet** https://twitter.com/porobe/status/971285996535939072
 
 
 
@@ -123,7 +123,7 @@ Half-way down this path in round one, it's been both exciting and discouraging a
    	"The Quick Brown Fox Jumped Over The Lazy Dog".indexOf("Jumped"); // This returns the index of the word 'jumped' - a number.
 2. **Boolean Object** This one was a little tricky for me as I tried to fully understand its application as different from the primitive boolean values true and false. I came to understand however that there are only six(6) types of falsy values in JavaScript:  **false, null, 0, "", undefined, and NaN.** Thus doing this: arr.filter(Boolean); filters all falsy values from a set of string passed to the array. This can be used to check the validity of form inputs such as email addresses etc.
 
-**Link to Twit:** https://twitter.com/porobe/status/976779166971584513
+**Link to Tweet:** https://twitter.com/porobe/status/976779166971584513
 
 ------------------------------------------------------------------------
 <h3>Day 51 & 52: March 23rd and 24th, 2018</h3>
@@ -136,4 +136,18 @@ Half-way down this path in round one, it's been both exciting and discouraging a
 3. **How to Convert JSON to HTML**
 		
 **Things got a bit clear now that the whole pieces are coming together.
-**Link to twit:** https://twitter.com/porobe/status/977368052269568000
+**Link to tweet:** https://twitter.com/porobe/status/977368052269568000
+
+
+<h3>Days 53 - 57: March 25th-29th, 2018</h3>
+
+**Summary of Progress**: 
+I completed the Random Quote Machine Project on FCC
+**Link to project:** https://codepen.io/Zappy555/pen/oqpzEZ
+
+2. I bought a personal domain in my name for my public profile where I can collect all my works and talk more openly about my interest
+**Link to personal website:** www.alexporobe.com
+    
+3. I learnt some more about Ajax, jQuery deprecated and newer classes, API calls etc
+
+**Link to tweet:** https://twitter.com/porobe/status/979133442628771840
