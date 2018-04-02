@@ -157,3 +157,11 @@ I bought a personal domain in my name for my public profile where I can collect 
 
 I learnt some more about Ajax, jQuery deprecated and newer classes in jQuery 3, API calls etc
 **Link to tweet:** https://twitter.com/porobe/status/979133442628771840
+
+------------------------------------------------------------------------
+<h3>Days 58 - 61: March 30th - April 2nd 2018</h3>
+
+**Summary of Progress**: 
+Read the book series "You Don't Know Javascript - Up and Going" <br>
+Tried to pair programme for the first time on my "Show the Local weather app" on FCC and learnt more about Teamviewer.<br>
+Worked more on a side project of developing a website for startup firm that has been lingering for a while now.<br>
