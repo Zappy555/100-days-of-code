@@ -165,3 +165,10 @@ I learnt some more about Ajax, jQuery deprecated and newer classes in jQuery 3, 
 Read the book series "You Don't Know Javascript - Up and Going" <br>
 Tried to pair programme for the first time on my "Show the Local weather app" on FCC and learnt more about Teamviewer.<br>
 Worked more on a side project of developing a website for startup firm that has been lingering for a while now.<br>
+
+------------------------------------------------------------------------
+<h3>Days 62 - 64: April 3rd - 5th 2018</h3>
+
+**Summary of Progress**: 
+Still digging on with my show the local weather app and my side project
+Completed week 0 lecture on CS50 - Intro. to computer science.
