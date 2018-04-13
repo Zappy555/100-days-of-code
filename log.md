@@ -172,3 +172,18 @@ Worked more on a side project of developing a website for startup firm that has 
 **Summary of Progress**: 
 Still digging on with my show the local weather app and my side project
 Completed week 0 lecture on CS50 - Intro. to computer science.
+
+------------------------------------------------------------------------
+<h3>Days 65 - 71: April 6th - 12th 2018</h3>
+
+**Summary of Progress**: 
+1. I completed my "Show the Local Weather App" on FreeCodeCamp
+This project was about the mar my zeal in the entire journey. It was so challenging wrapping my head around how to make simple API calls even when I have used an API in the "Random Quote Machine App". I was simply at a loss on how to commence the project after the HTML and CSS components. After about 4 youtube videos and countless samples of other campers work, It began to sink in gradually. Not that it was such difficult project in itself.
+
+I also worked on my website side project to some 80% completion.
+
+**Link to Local Weather App Project**<br>
+https://codepen.io/Zappy555/pen/XEwKxg
+
+Build a Wikipedia Viewer up next.
+
