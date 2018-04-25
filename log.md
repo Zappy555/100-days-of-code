@@ -187,3 +187,12 @@ https://codepen.io/Zappy555/pen/XEwKxg
 
 Build a Wikipedia Viewer up next.
 
+<h3>Days 72 - 84: April 13th - 25th 2018</h3>
+
+**Summary of Progress**: 
+1. I needed to get grounded in Javascript concepts and so immersed myself in reading up with the YDKJS book series and some more chapters in Eloquent Javascript.
+2. I made significant improvement on my portfolio site www.alexporobe.com and added a blog
+3. I initiated the Wikipedia viewer project but not completed yet.
+4. I got accepted into the Chingu May Cohort 
+
+It's been a real struggle to get JS into my head but gradually things are improving.
