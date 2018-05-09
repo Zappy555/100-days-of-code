@@ -196,3 +196,13 @@ Build a Wikipedia Viewer up next.
 4. I got accepted into the Chingu May Cohort 
 
 It's been a real struggle to get JS into my head but gradually things are improving.
+
+
+
+<h3>Days 85 - 97: April 26th - May 9th 2018</h3>
+
+**Summary of Progress**: 
+1. I Downloaded and completed Git using GitHub Tutorial using Git Bash CLI
+2. I Got accepted into the Google-Udacity-Andela Web-Dev-Front-End Nano Degree Programme for Africa
+3. I Solved challenges on HTML and CSS into lesson 6 of the programme
+4. Initiated a pet dream project on StartHops
