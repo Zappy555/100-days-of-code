@@ -187,6 +187,7 @@ https://codepen.io/Zappy555/pen/XEwKxg
 
 Build a Wikipedia Viewer up next.
 
+------------------------------------------------------------------------
 <h3>Days 72 - 84: April 13th - 25th 2018</h3>
 
 **Summary of Progress**: 
@@ -198,7 +199,7 @@ Build a Wikipedia Viewer up next.
 It's been a real struggle to get JS into my head but gradually things are improving.
 
 
-
+------------------------------------------------------------------------
 <h3>Days 85 - 97: April 26th - May 9th 2018</h3>
 
 **Summary of Progress**: 
