@@ -202,9 +202,9 @@ It's been a real struggle to get JS into my head but gradually things are improv
 <h3>Days 85 - 97: April 26th - May 9th 2018</h3>
 
 **Summary of Progress**: 
-<span><img src="https://3xyh3sqxv063a8xzo5uk2zn1-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/Andela-logo-landscape-blue-100px.png"> 
-	<img src="http://udacity.github.io/fend/images/udacity.png" alt="Udacity Logo"> 
-	<img src="https://pbs.twimg.com/media/DcOdY-OX0AEUQ-W.jpg:small"></span><br>
+<span><img src="https://3xyh3sqxv063a8xzo5uk2zn1-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/Andela-logo-landscape-blue-400px.png"> 
+	
+<img src="https://pbs.twimg.com/media/DcOdY-OX0AEUQ-W.jpg:small"></span><br>
 
 1. I Got accepted into the Google-Udacity-Andela Web-Dev-Front-End Nano Degree Programme for Africa
 2. I Downloaded and completed Git using GitHub Tutorial using Git Bash CLI
