@@ -1,4 +1,5 @@
-<h1 align = "center">100DaysOfCode Log</h1>
+<h1 align = "center">100 Days Of Coding Log</h1>
+<h3 align = "center"> [Wed. January 31, - Friday May 11, 2018].</h3>
 <img src = "https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_960_720.jpg">
 <h2>Day 1 - 30 (31 Jan. - 1st Mar. 2018)</h2>
 
