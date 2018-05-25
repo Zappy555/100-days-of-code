@@ -3,7 +3,7 @@
 <img src = "https://cdn.pixabay.com/photo/2016/11/18/18/37/programming-1836330_960_720.png">
 
 <h3 align = "center"> Goals:</h3>
-# * Get the Front End Certificate on FreeCodeCamp <br>
+<strong> * Get the Front End Certificate on FreeCodeCamp </strong> <br>
 # * Complete Google Udacity with Andela Learning Community pre- nano-degree scholarship course
 # * Complete Colt Steel's web development bootcamp course on Udemy
 # * Complete at least 5 significant web projects
