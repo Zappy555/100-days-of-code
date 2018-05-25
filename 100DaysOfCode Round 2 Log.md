@@ -27,7 +27,7 @@
 
 <h3>Day 2: May 24th, 2018</h3>
 
-**Today's Progress**: I covered, 
+**Today's Progress**: I covered (Udacity), 
 * Function of functions (higher order functions)
 * jQuery Documentation overview: light weight JavaScript library and not a framework. Easy to catch up with basic JS skills.
 * html family tree and jQuery - the DOM (Document Object Model)
@@ -41,7 +41,7 @@
 
 <h3>Day 3: May 25th, 2018</h3>
 
-**Today's Progress**: I covered, 
+**Today's Progress**: I covered (on Udacity), 
 * DOM Manipulation continued. Today, I used more #jquery tools such as the .text(), .css(), .attr() etc to manipulate a web page. 
 * Using jQuery functions to manipulate the DOM.
 
