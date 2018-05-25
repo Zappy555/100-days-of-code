@@ -10,7 +10,7 @@
 <strong>  * Explore React, Express with #nodejs and #MongoDB </strong> <br>
 <strong>  * Get really familier with using Git and GitHub </strong> <br>
 <strong>  * Improve with my soft skills </strong> <br>
-<strong>  * log my daily learning on Round 2 on GitHub and Twit about it everyday
+<strong>  * log my daily learning on Round 2 on GitHub and Twit about it everyday </strong>
 
 
 ------------------------------------------------------------------------
