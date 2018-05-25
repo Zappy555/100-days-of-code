@@ -4,13 +4,13 @@
 
 <h3> Goals:</h3>
 <strong>  * Get the Front End Certificate on FreeCodeCamp </strong> <br>
-<strong>  * Complete Google Udacity with Andela Learning Community pre- nano-degree scholarship course </strong> <br>
+<strong>  * Complete Google Udacity pre-nano-degree scholarship course </strong> <br>
 <strong>  * Complete Colt Steel's web development bootcamp course on Udemy </strong> <br>
 <strong>  * Complete at least 5 significant web projects </strong> <br>
-<strong>  * Explore React, Express with #nodejs and #MongoDB </strong> <br>
-<strong>  * Get really familier with using Git and GitHub </strong> <br>
-<strong>  * Improve with my soft skills </strong> <br>
-<strong>  * log my daily learning on Round 2 on GitHub and Twit about it everyday </strong>
+<strong>  * Explore React, Express with #Node.js and #MongoDB </strong> <br>
+<strong>  * Get really familiar with using Git and GitHub </strong> <br>
+<strong>  * Improve my soft skills </strong> <br>
+<strong>  * log my R2 progress daily on GitHub and Twit about it everyday </strong>
 
 
 ------------------------------------------------------------------------
