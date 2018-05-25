@@ -11,3 +11,26 @@
 <strong>  * Get really familier with using Git and GitHub </strong> <br>
 <strong>  * Improve with my soft skills </strong> <br>
 <strong>  * log my daily learning on Round 2 on GitHub and Twit about it everyday
+
+
+------------------------------------------------------------------------
+
+<h3>Day 1: May 23rd, 2018</h3>
+
+**Today's Progress**: Prepped for R2 voyage
+**Thoughts:** strengthening resolve to see through this new found passion. 
+**Link to twit:** https://twitter.com/Alex_DevOps/status/999352893370183685
+
+------------------------------------------------------------------------
+
+<h3>Day 2: May 24th, 2018</h3>
+
+**Today's Progress**: I covered, 
+* Function of functions (higher order functions)
+* jQuery Documentation overview: light weight JavaScript library and not a framework. Easy to catch up with basic JS skills.
+* html family tree and jQuery - the DOM (Document Object Model)
+* DOM manipulation with jQuery {.next( ), .toggleClass( ) etc}
+
+**Thoughts:** On some of the challenges such as if/else, I had to use the hint on FCC to check the solution.
+
+**Link to twit:** https://twitter.com/Alex_DevOps/status/999770298680594433
