@@ -31,6 +31,6 @@
 * html family tree and jQuery - the DOM (Document Object Model)
 * DOM manipulation with jQuery {.next( ), .toggleClass( ) etc}
 
-**Thoughts:** On some of the challenges such as if/else, I had to use the hint on FCC to check the solution.
+**Thoughts:** 'The more code I write, the more right I code'. Gradually getting things right easily. Progress assured.
 
 **Link to twit:** https://twitter.com/Alex_DevOps/status/999770298680594433
