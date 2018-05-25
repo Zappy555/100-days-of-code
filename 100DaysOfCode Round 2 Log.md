@@ -18,7 +18,9 @@
 <h3>Day 1: May 23rd, 2018</h3>
 
 **Today's Progress**: Prepped for R2 voyage
-**Thoughts:** strengthening resolve to see through this new found passion. 
+
+**Thoughts:** strengthening resolve to see through this new found passion.
+
 **Link to twit:** https://twitter.com/Alex_DevOps/status/999352893370183685
 
 ------------------------------------------------------------------------
