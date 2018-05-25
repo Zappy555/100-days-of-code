@@ -201,7 +201,7 @@ It's been a real struggle to get JS into my head but gradually things are improv
 
 
 ------------------------------------------------------------------------
-<h3>Days 85 - 97: April 26th - May 9th 2018</h3>
+<h3>Days 85 - 97: April 26th - May 8th 2018</h3>
 
 **Summary of Progress**: 
 
@@ -212,3 +212,10 @@ It's been a real struggle to get JS into my head but gradually things are improv
 3. I Solved challenges on HTML and CSS into lesson 6 of the programme
 4. Initiated a pet dream project on StartHops
 
+------------------------------------------------------------------------
+<h3>Days 98 - 100: May 9 - 11, 2018</h3>
+
+**Summary of Progress**: 
+
+Celebration on Twitter
+# Link: https://twitter.com/Alex_DevOps/status/995047193311678464
