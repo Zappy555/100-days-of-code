@@ -36,3 +36,14 @@
 **Thoughts:** 'The more code I write, the more right I code'. Gradually getting things right easily. Progress assured.
 
 **Link to twit:** https://twitter.com/Alex_DevOps/status/999770298680594433
+
+------------------------------------------------------------------------
+
+<h3>Day 2: May 24th, 2018</h3>
+
+**Today's Progress**: I covered, 
+* DOM Manipulation continued. Today, I used more #jquery tools such as the .text(), .css(), .attr() etc to manipulate a web page. 
+
+**Thoughts:** How the road to being a developer is both frustrating and exciting I don't get..
+
+**Link to twit:** https://twitter.com/Alex_DevOps/status/1000159630163574784
