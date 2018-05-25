@@ -39,10 +39,11 @@
 
 ------------------------------------------------------------------------
 
-<h3>Day 2: May 24th, 2018</h3>
+<h3>Day 3: May 25th, 2018</h3>
 
 **Today's Progress**: I covered, 
 * DOM Manipulation continued. Today, I used more #jquery tools such as the .text(), .css(), .attr() etc to manipulate a web page. 
+* Using jQuery functions to manipulate the DOM.
 
 **Thoughts:** How the road to being a developer is both frustrating and exciting I don't get..
 
