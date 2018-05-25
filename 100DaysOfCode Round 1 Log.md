@@ -1,7 +1,6 @@
 <h1 align = "center">Round 1, 100DaysOfCode Log</h1>
-<h2>Day 1 - 30 (31 Jan. - 1st Mar. 2018)</h2>
 <img src = "https://cdn.pixabay.com/photo/2017/06/23/10/48/code-2434271_960_720.jpg">
-
+<h2>Day 1 - 30 (31 Jan. - 1st Mar. 2018)</h2>
 
 **Summary of Progress**: Completed Basic HTML5, CSS, jQuery and some Javascript.</b>
 **Projects:** Completed my Tribute page, Personal Portfolio Site and a Medium Article on 30th day uninterrupted progresss.<br/>
