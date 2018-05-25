@@ -1,6 +1,6 @@
 <h1 align = "center">Round 2, 100DaysOfCode Log</h1>
 <h3 align = "center"> [Wed. May 23,  2018 ...]</h3>
-<img src = "https://cdn.pixabay.com/photo/2016/11/18/18/37/programming-1836330_960_720.png">
+<img src = "https://wallpapercave.com/wp/wp2234550.png">
 
 <h3> Goals:</h3>
 <strong>  * Get the Front End Certificate on FreeCodeCamp </strong> <br>
