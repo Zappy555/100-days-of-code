@@ -48,3 +48,21 @@
 **Thoughts:** How the road to being a developer is both frustrating and exciting I don't get..
 
 **Link to twit:** https://twitter.com/Alex_DevOps/status/1000159630163574784
+
+
+------------------------------------------------------------------------
+
+<h3>Day 4: May 26th, 2018</h3>
+
+**Today's Progress**:  
+* Soft skill development at meet up. Google Udacity African Scholars Meetup.
+* Met with over 40 fellow scholars at Ken Saro Wiwa Innovation Hub, Port Harcourt Nigeria.
+* Got more learning resources from fellow scholars and bonded more throuh the meet up
+
+<img src = "http://alexporobe.com/blog/wp-content/uploads/2018/05/ALCWithGoogleMeetup-Alex.jpg">
+
+<img src = "http://alexporobe.com/blog/wp-content/uploads/2018/05/Meetup-1.jpeg">
+
+**Thoughts:** Awesome moments with like minds
+
+**Link to twit:** https://twitter.com/Alex_DevOps/status/1000159630163574784
