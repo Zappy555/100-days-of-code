@@ -65,4 +65,6 @@
 
 **Thoughts:** Awesome moments with like minds
 
-**Link to twit:** https://twitter.com/Alex_DevOps/status/1000159630163574784
+**Link to twit:** https://twitter.com/Alex_DevOps/status/1000663367927959553
+
+**Link to twit:** https://twitter.com/Alex_DevOps/status/1000363471622557696
