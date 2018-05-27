@@ -58,6 +58,9 @@
 * Soft skill development at meet up. Google Udacity African Scholars Meetup.
 * Met with over 40 fellow scholars at Ken Saro Wiwa Innovation Hub, Port Harcourt Nigeria.
 * Got more learning resources from fellow scholars and bonded more throuh the meet up
+* jQuery function callback in the DOM.
+* Project setup on @ChinguCollabs 
+* Returned to Wikipedia viewer on #FCC
 
 <img src = "http://alexporobe.com/blog/wp-content/uploads/2018/05/ALCWithGoogleMeetup-Alex.jpg">
 
