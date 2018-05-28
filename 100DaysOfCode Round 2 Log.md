@@ -75,7 +75,7 @@
 
 ------------------------------------------------------------------------
 
-<h3>Day 4: May 26th, 2018</h3>
+<h3>Day 5: May 27th, 2018</h3>
 
 **Today's Progress**:  
 * Event Listeners with jQuery:
