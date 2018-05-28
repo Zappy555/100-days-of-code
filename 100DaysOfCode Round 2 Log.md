@@ -71,3 +71,19 @@
 **Link to twit:** https://twitter.com/Alex_DevOps/status/1000663367927959553
 
 **Link to twit:** https://twitter.com/Alex_DevOps/status/1000363471622557696
+
+
+------------------------------------------------------------------------
+
+<h3>Day 4: May 26th, 2018</h3>
+
+**Today's Progress**:  
+* Event Listeners with jQuery:
+  - Syntax
+  - Convenience method
+  - Object
+  - Delegation.
+
+**Thoughts:** None comes to mind easily.
+
+**Link to twit:** https://twitter.com/Alex_DevOps/status/1000902973390753792
