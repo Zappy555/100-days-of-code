@@ -97,3 +97,16 @@
 jQuery and the DOM manipulation practice, practice and practice!
 
 **Link to twit:** https://twitter.com/Alex_DevOps/status/1001664361696583686
+
+
+------------------------------------------------------------------------
+
+<h3>Day 8: May 30th & 29th, 2018</h3>
+
+**Today's Progress**:  
+Got a call from a prospective client, requested for appointment, met an hour later, discussed revamping a website,
+website examined, price negotiated, gig SLAMMED!!
+
+This is going to be my first paid side gig for my new skillset being acquired.
+
+**Link to twit:** https://twitter.com/Alex_DevOps/status/1001942982327721984
