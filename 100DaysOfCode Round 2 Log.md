@@ -87,3 +87,13 @@
 **Thoughts:** None comes to mind easily.
 
 **Link to twit:** https://twitter.com/Alex_DevOps/status/1000902973390753792
+
+
+------------------------------------------------------------------------
+
+<h3>Day 6 & 7: May 28th & 29th, 2018</h3>
+
+**Today's Progress**:  
+jQuery and the DOM manipulation practice, practice and practice!
+
+**Link to twit:** https://twitter.com/Alex_DevOps/status/1001664361696583686
