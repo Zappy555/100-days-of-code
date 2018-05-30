@@ -101,7 +101,7 @@ jQuery and the DOM manipulation practice, practice and practice!
 
 ------------------------------------------------------------------------
 
-<h3>Day 8: May 30th & 29th, 2018</h3>
+<h3>Day 8: May 30th, 2018</h3>
 
 **Today's Progress**:  
 Got a call from a prospective client, requested for appointment, met an hour later, discussed revamping a website,
