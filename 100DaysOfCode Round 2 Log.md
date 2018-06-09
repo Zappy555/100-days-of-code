@@ -110,3 +110,22 @@ website examined, price negotiated, gig SLAMMED!!
 This is going to be my first paid side gig for my new skillset being acquired.
 
 **Link to twit:** https://twitter.com/Alex_DevOps/status/1001942982327721984
+
+
+------------------------------------------------------------------------
+
+<h3>Day 9: May 31st, 2018</h3>
+
+**Today's Progress**:  
+.
+
+**Link to twit:** 
+
+
+------------------------------------------------------------------------
+
+<h3>Day 10: June 1st, 2018</h3>
+
+**Today's Progress**:
+
+**Link to twit:** 
